@@ -1,3 +1,5 @@
+// the code of power of two in java 
+
 public class poweroftwo
 {
     public static boolean myFunc(int n)
@@ -23,4 +25,5 @@ public class poweroftwo
         System.out.println(result);
 
     }
+
 }
