@@ -13,9 +13,10 @@ class Solution:
         
         return sign + result
 
-# Test case
+# EXAMPLE USAGE
 if __name__ == "__main__":
     solution = Solution()
     param_1 = 100
     result = solution.convertToBase7(param_1)
     print(result)  
+
