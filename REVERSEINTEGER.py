@@ -12,5 +12,7 @@ class Solution:
         
         return reversed_num
 #eaxample usage 
-solution = Solution()
-print(solution.reverse(123))
+if __name__ == "__main__":
+   solution = Solution()
+   result = solution.reverse(123)
+   print(result)
