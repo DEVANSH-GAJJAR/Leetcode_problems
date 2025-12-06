@@ -1,3 +1,3 @@
-# Leetcode_problems
+## Leetcode_problems and Coding Practices 
 
-here i will upload leetcode problems 
+here i will upload Coding Stuff
