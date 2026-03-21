@@ -1,3 +1,5 @@
+// it is a java based program for Fibonacci sequence
+
 public class Fibonacci {
     public static void main(String[] args) {
         int n = 10; // Hardcoded input for simplicity
